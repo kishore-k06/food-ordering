@@ -1,5 +1,6 @@
 • Leveraged Figma tools and features such as prototyping and constraints to design a responsive
 mobile login layout for food ordering system.
+
 • Prioritized user experience by crafting an elegant and intuitive UI that minimizes friction during
 login.
 
